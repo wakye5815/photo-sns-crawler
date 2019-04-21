@@ -1,0 +1,5 @@
+.idea/
+target/
+selenium/
+debug.log
+src/main/resources/
